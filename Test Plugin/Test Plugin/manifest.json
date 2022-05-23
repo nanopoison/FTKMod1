@@ -1,9 +1,0 @@
-{
-    "name": "TestMod",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/nanopoison/FTKMod1/tree/main/Test%20Plugin",
-    "description": "DO NOT DOWNLOAD",
-    "dependencies": [
-        "BepInEx-BepInExPack_ForTheKing-5.4.19"
-    ]
-}
